@@ -30,7 +30,7 @@ Or
 
 # License
 
-Peptide explainer is available under MIT License. See license document for more details. URL and DOI: https://github.com/andresilvapimentel/Peptide-explainer (???)
+Peptide explainer is available under MIT License. See license document for more details. URL and DOI: https://github.com/andresilvapimentel/Peptide-explainer (https://doi.org/10.5281/zenodo.16888257)
 
 # Contributors
 
