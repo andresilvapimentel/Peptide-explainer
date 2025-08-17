@@ -1,6 +1,6 @@
 # Peptide-explainer
 
-<img src="graphical abstract_1.png" alt="drawing" width="200"/>
+<img src="graphical abstract_1.png" alt="drawing" width="400"/>
 
 
 
