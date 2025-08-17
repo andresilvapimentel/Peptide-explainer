@@ -2,7 +2,7 @@
 
 <img src="graphical abstract_1.png" alt="drawing" width="400"/>
 
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16888257.svg)](https://doi.org/10.5281/zenodo.16888257)
 
 Peptide explainer is a code to classify the activities and toxicities of peptide sequences and generate explanations of k-mers or motifs that cause activities and toxicities using Local Interpretable Model-Agnostic Explanations (LIME) and Anchors explanations.
 
